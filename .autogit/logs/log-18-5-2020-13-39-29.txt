@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Jun 18 2020 13:39:29 GMT+0300 (Восточная Европа, летнее время)
+------------------------------------------------------
+
+Modified files:
+* express-helloworld/package-lock.json
+
+
+Created files:
+* .autogit/autogit.json
+
+
+Deleted files:
+
+
+Renamed files:
